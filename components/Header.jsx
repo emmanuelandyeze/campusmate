@@ -43,11 +43,14 @@ const Header = () => {
 						</ul>
 					</div>
 					<div>
-						<ul className="flex space-x-4">
+						<a
+							href="https://getwaitlist.com/waitlist/10852"
+							className="flex space-x-4"
+						>
 							<button className="bg-blue-500 text-white font-semibold py-2 px-4 rounded-md hover:bg-opacity-80 transition duration-300 ease-in-out">
 								Join waitlist
 							</button>
-						</ul>
+						</a>
 					</div>
 				</div>
 			</div>
