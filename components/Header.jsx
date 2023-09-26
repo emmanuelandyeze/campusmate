@@ -11,7 +11,7 @@ const Header = () => {
 						{/* Logo */}
 						<div>
 							<Link href="/">
-								<p className="text-black text-3xl font-bold mr-5">
+								<p className="text-black text-2xl md:text-3xl font-bold mr-5">
 									CampusMate
 								</p>
 							</Link>
