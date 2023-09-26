@@ -11,7 +11,7 @@ function Landing() {
 				</h1>
 				<p className="text-xl sm:text-2xl mb-8 w-full md:w-3/4 mx-auto leading-7 md:leading-relaxed">
 					Effortless Scheduling, Task Management,
-					Collaboration, and Note-Taking Redefined.
+					Collaboration, <br /> and Note-Taking Redefined.
 					{/* All-in-One Solution for University Success. */}
 				</p>
 				<div className="flex justify-center">
