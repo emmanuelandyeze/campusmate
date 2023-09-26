@@ -14,19 +14,20 @@ const WaitlistForm = () => {
 						Be the first to know when CampusMate becomes
 						available. Sign up for our waitlist!
 					</p>
-					<form>
+					<div>
 						<a
 							href="https://getwaitlist.com/waitlist/10852"
 							className="mb-6"
+							target='blank'
 						>
 							<button
 								type="submit"
-								className="w-3/4 bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition duration-300 ease-in-out"
+								className="w-full bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition duration-300 ease-in-out"
 							>
 								Join Waitlist
 							</button>
 						</a>
-					</form>
+					</div>
 				</div>
 			</div>
 		</div>
