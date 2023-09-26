@@ -6,7 +6,7 @@ const WaitlistForm = () => {
 	return (
 		<div className="">
 			<div className="container mx-auto">
-				<div className="max-w-md mx-auto bg-white p-6 rounded-md shadow-md">
+				<div className="max-w-md mx-auto bg-white p-6 rounded-md">
 					<h2 className="text-2xl font-semibold mb-4">
 						Join the Waitlist
 					</h2>
